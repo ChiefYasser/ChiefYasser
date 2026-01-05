@@ -14,11 +14,7 @@
 
 <br><br>
 
-<!-- 🏆 TROPHIES (New!) -->
-<!-- Shows your achievements/ranks based on your activity -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChiefYasser&theme=darkhub&no-frame=true&margin-w=15&row=1" alt="trophies" />
-</a>
+
 
 <br><br>
 
