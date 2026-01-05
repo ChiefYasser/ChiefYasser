@@ -1,9 +1,5 @@
 <div align="center">
 
-# Hi there, I'm Yasser! 👋
-
-<!-- VISITOR COUNT -->
-![Profile Views](https://komarev.com/ghpvc/?username=ChiefYasser&color=blueviolet)
 
 <!-- SOCIAL LINKS -->
 <a href="https://instagram.com/ChiefYasser">
@@ -18,20 +14,35 @@
 
 <br><br>
 
-<!-- ANALYTICS SECTION -->
-<!-- I added a table layout so your stats sit side-by-side -->
+<!-- 🏆 TROPHIES (New!) -->
+<!-- Shows your achievements/ranks based on your activity -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChiefYasser&theme=darkhub&no-frame=true&margin-w=15&row=1" alt="trophies" />
+</a>
+
+<br><br>
+
+<!-- 📊 ANALYTICS SECTION -->
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ChiefYasser&show_icons=true&theme=dark&hide_border=true" />
+      <!-- General Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=ChiefYasser&show_icons=true&theme=dark&hide_border=true&count_private=true" />
     </td>
     <td align="center" width="50%">
+      <!-- Streak Stats -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiefYasser&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
 
-<!-- TOP LANGUAGES (Your original image, centered) -->
+<!-- 📈 ACTIVITY GRAPH (New!) -->
+<!-- Shows your contribution history graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiefYasser&theme=react-dark&hide_border=true" />
+
+<br>
+
+<!-- TOP LANGUAGES -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefYasser&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 <br>
