@@ -16,21 +16,6 @@
 
 
 
-<br><br>
-
-<!-- 📊 ANALYTICS SECTION -->
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <!-- General Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=ChiefYasser&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-    </td>
-    <td align="center" width="50%">
-      <!-- Streak Stats -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiefYasser&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 <!-- 📈 ACTIVITY GRAPH (New!) -->
 <!-- Shows your contribution history graph -->
