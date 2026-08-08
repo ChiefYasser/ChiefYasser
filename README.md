@@ -58,10 +58,6 @@ $ uptime
 
 ### Stats
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ChiefYasser&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=0D1117&icon_color=3FB950&text_color=8B949E&title_color=3FB950" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefYasser&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=8B949E" />
-</p>
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiefYasser&hide_border=true&hide_title=true&bg_color=0D1117&color=8B949E&line=3FB950&point=3FB950&area=true&area_color=3FB950" width="88%" />
