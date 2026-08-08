@@ -25,20 +25,6 @@ $ uptime
 > building, breaking, and hardening systems
 ```
 
-<br/>
-
-### About
-
-<!-- ⬇️ edit these four lines ⬇️ -->
-
-```yaml
-role:     Cybersecurity Engineer
-focus:    <your specialty — appsec / red team / SOC / cloud security>
-current:  <what you're working on>
-learning: <what you're studying or certifying in>
-```
-
-<br/>
 
 ### Toolkit
 
@@ -69,20 +55,6 @@ learning: <what you're studying or certifying in>
 
 <br/>
 
-### Work
-
-<!-- ⬇️ replace with your real repos, or delete this section ⬇️ -->
-
-<p>
-  <a href="https://github.com/ChiefYasser/REPO-ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiefYasser&repo=REPO-ONE&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=8B949E" />
-  </a>
-  <a href="https://github.com/ChiefYasser/REPO-TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiefYasser&repo=REPO-TWO&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=8B949E" />
-  </a>
-</p>
-
-<br/>
 
 ### Stats
 
