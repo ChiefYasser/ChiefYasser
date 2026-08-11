@@ -41,7 +41,7 @@ $ uptime
 <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3FB950" />
-<img src="https://img.shields.io/badge/Assembly-161B22?style=flat-square" />
+
 </td></tr>
 
 <tr><td><b>Offensive</b></td><td>
