@@ -42,6 +42,15 @@ $ uptime
 <img src="https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3FB950" />
 
+
+
+
+
+
+
+
+
+
 </td></tr>
 
 <tr><td><b>Offensive</b></td><td>
@@ -107,7 +116,6 @@ $ uptime
 <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=flat-square&logo=huggingface&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=3FB950" />
-<img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=3FB950" />
 <img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=3FB950" />
 </td></tr>
 </table>
